@@ -1,4 +1,4 @@
-### Full example of using **libcurl** with ESP3232
+### Full example of using **libcurl** with ESP32
 
 ---
 
